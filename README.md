@@ -5,7 +5,7 @@ Docker kurmak için aşağıdaki linkten faydalanabilirsiniz.
 
 https://docs.docker.com/get-docker/
 
-Docker ile veritabanlarını bilgisayarınızda ayağa kaldırmak için aşağıdaki komutları kullanabilirsiniz.
+Docker ile veritabanlarını bilgisayarınızda ayağa kaldırmak için aşağıdaki komutları kullanabilirsiniz. Bu komutları bilgisayarınızın terminalinde çalıştırmalısınız.
 
 MySQL
 docker run -d --name mysqltest -p 3306:3306 -v ~/your_own_folder:/var/lib/mysql -u root  -e MYSQL_ROOT_PASSWORD=root -d mysql:latest
