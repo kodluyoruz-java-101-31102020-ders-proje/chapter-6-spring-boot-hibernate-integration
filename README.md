@@ -1,6 +1,10 @@
 # chapter-6-spring-boot-hibernate-integration
 Spring and Hibernate Integration via SessionFactory
 
+Docker kurmak için aşağıdaki linkten faydalanabilirsiniz.
+
+https://docs.docker.com/get-docker/
+
 Docker ile veritabanlarını bilgisayarınızda ayağa kaldırmak için aşağıdaki komutları kullanabilirsiniz.
 
 MySQL
